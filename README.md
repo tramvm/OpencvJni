@@ -1,0 +1,2 @@
+# OpencvJni
+Android + Opencv + JNI
